@@ -21,16 +21,28 @@ The motivation behind making this project is to standardize and make it easier t
 
 To be able to run this project, several supporting tools are needed, such as:
 
-- Web server i.e: `xampp`, `lampp` or `mampp`
-- Core language: `php ^8.x`
-- JavaScript runtime like: `Node Js`
-- Package manager for php, i.e: `composer`
+- Web server : 
+    - `xampp` 
+    - `lampp` 
+    - or `mampp`
+- Core language : 
+    - `php ^8.x`
+- JavaScript runtime : 
+    -   `Node Js`
+- Package manager : 
+    - `composer`
 
-## Dependency & Built-in scaffolding
-1. Laravel UI for manage login & register related thing
-2. Laravel Pint for code styling
-3. Spatie Laravel health for checking the health in app
-4. Tailwindcss for create good-looking interface
+## Built-in Dependency & Scaffolding
+- Authentication : 
+    - `Laravel UI`
+- Code styling :
+    - `Laravel Pint`
+- Checking health : 
+    - `Spatie Laravel health`
+- Good-looking user interface : 
+    - `Tailiwndcss`
+- Icon : 
+    - `Feather icon` (for blade templating engine)
 
 ## Run development mode
 
